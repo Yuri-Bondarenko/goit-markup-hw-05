@@ -718,6 +718,7 @@ img {
   pointer-events: initial;
 
   transition: opacity var(--trns-org),visibility var(--trns-org);
+}
 
   
 
