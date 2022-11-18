@@ -547,7 +547,7 @@ img {
   flex-basis: calc((100% - 30px * 2) / 3);
 }
 
-.content-cards:hover .content-overlay {
+.content-link:hover .content-overlay {
   transform: translateY(0);
 }
 
